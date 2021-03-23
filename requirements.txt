@@ -1,0 +1,7 @@
+Timestamp
+Range
+Time elapsed
+Algorithm chosen
+Number of primes 
+mongodb+srv://bolt:2391056@cluster0.xskyn.gcp.mongodb.net/bolt?retryWrites=true&w=majority
+
