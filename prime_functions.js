@@ -28,7 +28,7 @@ function prime(ln,hn){
     }
 prime(ags[1],ags[2]);
 }
-else{
+else{//second method will run if first argument is other than 1 
 
     console.log("second part");
 function isPrime(num) {
